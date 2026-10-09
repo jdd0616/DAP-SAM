@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+opencv-python
+scipy
+scikit-image
+h5py
+einops
+Pillow
+tensorboardX
+tqdm
+icecream
+medpy
+safetensors
